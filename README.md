@@ -45,11 +45,11 @@ All the results are cited from original paper. More details can be found in the 
 
 ## Citation
 @ARTICLE{10105921,  
-  author={Dong, Wenqian and Yang, Teng and Qu, Jiahui and Zhang, Tian and Xiao, Song and Li, Yunsong},  
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},   
-  title={Joint Contextual Representation Model-Informed Interpretable Network With Dictionary Aligning for Hyperspectral and LiDAR Classification},   
-  year={2023},  
-  volume={33},  
-  number={11},  
-  pages={6804-6818},  
-  doi={10.1109/TCSVT.2023.3268757}}
+  &emsp;author={Dong, Wenqian and Yang, Teng and Qu, Jiahui and Zhang, Tian and Xiao, Song and Li, Yunsong},  
+  &emsp;journal={IEEE Transactions on Circuits and Systems for Video Technology},   
+  &emsp;title={Joint Contextual Representation Model-Informed Interpretable Network With Dictionary Aligning for Hyperspectral and LiDAR Classification},   
+  &emsp;year={2023},  
+  &emsp;volume={33},  
+  &emsp;number={11},  
+  &emsp;pages={6804-6818},  
+  &emsp;doi={10.1109/TCSVT.2023.3268757}}
