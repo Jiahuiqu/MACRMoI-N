@@ -1,6 +1,6 @@
 # Joint Contextual Representation Model-Informed Interpretable Network With Dictionary Aligning for Hyperspectral and LiDAR Classification
 
-## This example implements the paper in review [Joint Contextual Representation Model-Informed Interpretable Network With Dictionary Aligning for Hyperspectral and LiDAR Classification]
+This example implements the paper in review [Joint Contextual Representation Model-Informed Interpretable Network With Dictionary Aligning for Hyperspectral and LiDAR Classification] (IEEE Transactions on Circuits and Systems for Video Technology 2023)
 
 
 ## Prerequisites
